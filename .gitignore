@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+.env
+scheduler.log
+.ipynb_checkpoints/
+*.pkl
+*.pt
+*.bin
+*.h5
+.DS_Store
+
+models/
